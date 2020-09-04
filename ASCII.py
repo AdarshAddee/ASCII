@@ -1,3 +1,8 @@
+# Author = Adarsh Gupta (Adarshaddee)
+# Aim = To convert simple text into attractive ASCII text 
+
+
+
 import os
 import pyfiglet
 import termcolor
