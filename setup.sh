@@ -1,3 +1,11 @@
+                          # Author = Adarsh Gupta (Adarshaddee)
+                          # Aim = To convert simple text to attractive ASCII text
+                          
+                          # VERSION = 1.1
+
+
+clear
+
 echo "             WELCOME"
 echo "      Checking for system update"
 
